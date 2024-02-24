@@ -1,6 +1,6 @@
 use std::error::Error;
 use reqwest::Error as ReqwestError;
-use serde_json::Value; // Add this line
+use serde_json::Value;
 
 async fn fetch_klines() -> Result<(), ReqwestError> {
     let binance_api_url = "https://api.binance.com/api/v3/klines";
