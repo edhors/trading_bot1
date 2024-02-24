@@ -1,0 +1,11 @@
+U:\home\edhors\rustProjects\trading_bot1\trading_bot\target\debug\deps\liburl-4381d8202f3e75a4.rmeta: C:\Users\hosumanedo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\lib.rs C:\Users\hosumanedo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\host.rs C:\Users\hosumanedo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\origin.rs C:\Users\hosumanedo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\parser.rs C:\Users\hosumanedo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\path_segments.rs C:\Users\hosumanedo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\slicing.rs C:\Users\hosumanedo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\quirks.rs
+
+U:\home\edhors\rustProjects\trading_bot1\trading_bot\target\debug\deps\url-4381d8202f3e75a4.d: C:\Users\hosumanedo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\lib.rs C:\Users\hosumanedo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\host.rs C:\Users\hosumanedo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\origin.rs C:\Users\hosumanedo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\parser.rs C:\Users\hosumanedo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\path_segments.rs C:\Users\hosumanedo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\slicing.rs C:\Users\hosumanedo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\quirks.rs
+
+C:\Users\hosumanedo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\lib.rs:
+C:\Users\hosumanedo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\host.rs:
+C:\Users\hosumanedo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\origin.rs:
+C:\Users\hosumanedo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\parser.rs:
+C:\Users\hosumanedo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\path_segments.rs:
+C:\Users\hosumanedo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\slicing.rs:
+C:\Users\hosumanedo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.0\src\quirks.rs:
