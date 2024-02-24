@@ -21,7 +21,7 @@ async fn fetch_klines() -> Result<(), ReqwestError> {
         .await?;
 
     if response.status().is_success() {
-        let klines: Vec<Vec<Value>> = response.json().await?; // Modify this line
+        let klines: Vec<Vec<Value>> = response.json().await?;
         println!("Last klines for {}: {:?}", symbol, klines);
     } else {
         println!("Request failed with status: {}", response.status());
