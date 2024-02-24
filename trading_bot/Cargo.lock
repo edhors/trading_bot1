@@ -1263,6 +1263,9 @@ name = "trading_bot"
 version = "0.1.0"
 dependencies = [
  "binance-rs-async",
+ "reqwest",
+ "serde_json",
+ "tokio",
 ]
 
 [[package]]
